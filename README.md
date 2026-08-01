@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F52BA,100:00A9A5&height=210&section=header&text=Henry%20%E2%80%94%20OstseeBit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT-Infrastruktur%20%7C%20Endpoint%20Management%20%7C%20Homelab&descAlignY=55&descSize=18&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F52BA,100:00A9A5&height=210&section=header&text=Henry%20%E2%80%94%20OstseeBit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT-Infrastruktur%20%7C%20Endpoint%20Management%20%7C%20Homelab&descAlignY=55&descSize=18)
 
 </div>
 
@@ -80,12 +80,12 @@ Netzwerk: pfSense · VLANs · DMZ · WireGuard — Dienste: Docker/Portainer, zo
 ## ⚓ Wie ich arbeite
 
 > Stabilität, Verlässlichkeit und Wartbarkeit zählen mehr als kurzfristige Effekte oder Show.
-> > Sicherheit vor Komplexität — lieber eine Lösung, die in einem Jahr noch nachvollziehbar ist,
-> > > als eine, die heute beeindruckt.
-> > >
-> > > Außerhalb der Technik interessieren mich Geschichte und Philosophie — beides schärft denselben Blick, den ich auch in der IT brauche: Strukturen verstehen, bevor man sie verändert.
-> > >
-> > > <br>
+> Sicherheit vor Komplexität — lieber eine Lösung, die in einem Jahr noch nachvollziehbar ist,
+> als eine, die heute beeindruckt.
+
+Außerhalb der Technik interessieren mich Geschichte und Philosophie — beides schärft denselben Blick, den ich auch in der IT brauche: Strukturen verstehen, bevor man sie verändert.
+
+<br>
 
 <div align="center">
 
