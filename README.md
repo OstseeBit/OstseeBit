@@ -4,21 +4,15 @@
 
 </div>
 
-<br>
+# OstseeBit
 
-Ich komme nicht direkt aus der Systemadministration, sondern aus dem technischen Kundenservice. Jahrelange End-to-End-Verantwortung für Geschäftskunden hat mir eine Sache klar gezeigt: **das eigentliche Problem liegt selten nur in der Technik**, sondern oft in Prozessen, unklarer Verantwortung oder fehlender Struktur. Diese Denkweise bringe ich heute in die Infrastrukturarbeit mit.
+OstseeBit ist der Name, unter dem ich mich privat mit IT-Infrastruktur, Automatisierung und Softwareentwicklung beschäftige. Dahinter stehe ich, Henry aus Rostock.
 
-<br>
+## Beruflicher Hintergrund
 
-<div align="center">
+Mein beruflicher Schwerpunkt liegt im IT Service Desk und Endpoint Management. Dazu gehören die Bereitstellung und Verwaltung von Software, die Betreuung von Arbeitsumgebungen, Zugriffsverwaltung und die systematische Analyse technischer Störungen.
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F52BA,100:00A9A5&height=3&width=100%25)
-
-</div>
-
-## 🖥️ Beruflich
-
-IT Service Desk und Endpoint Management — Paketierung, Softwareverteilung, Zugriffsverwaltung und Troubleshooting im Tagesgeschäft.
+Aus dem technischen Kundenservice bringe ich den Blick auf die gesamte Nutzungssituation mit: Eine Lösung muss technisch funktionieren, im Alltag verständlich sein und sich zuverlässig betreiben lassen.
 
 <div align="center">
 
@@ -30,9 +24,11 @@ IT Service Desk und Endpoint Management — Paketierung, Softwareverteilung, Zug
 
 </div>
 
-## 🌊 Privat — OstseeBit Homelab
+## Technische Interessen
 
-Was im Job Zeit, Freigaben und ein Team braucht, baue ich privat komplett allein auf — als vollständig segmentiertes Proxmox-Homelab:
+Privat vertiefe ich diese Arbeit im eigenen Homelab. Ich beschäftige mich mit Linux- und Windows-Systemen, Virtualisierung, Containern, Netzwerken und selbst gehosteten Diensten. Hinzu kommen Skripte, Webentwicklung und der Einsatz von KI als Werkzeug für technische Aufgaben.
+
+Mich interessiert das Zusammenspiel dieser Bereiche: wie Systeme aufgebaut sind, wie sich wiederkehrende Aufgaben automatisieren lassen und wie Betrieb, Wartung und Sicherheit zusammenpassen.
 
 <div align="center">
 
@@ -47,45 +43,11 @@ Was im Job Zeit, Freigaben und ein Team braucht, baue ich privat komplett allein
 
 </div>
 
-Netzwerk: pfSense · VLANs · DMZ · WireGuard — Dienste: Docker/Portainer, zonengetrennt in LAN, Core, DMZ, Lab und WireGuard.
+## Arbeitsweise
 
-<br>
+Ich lege Wert auf nachvollziehbare Konfigurationen, klare Strukturen und überprüfbare Änderungen. Dokumentation, Sicherungen und Wartbarkeit gehören für mich zur technischen Umsetzung.
 
-## 📦 Projekte
-
-<div align="center">
-
-| Projekt | Beschreibung |
-|---|---|
-| **OstseeBit LXC Update-Suite** | Bash-Tool für gebündelte Container-Updates im Proxmox-Homelab, produktionsgehärtet |
-| **OstseeBit LXC Setup-Suite** | Bash-Tool für Ersteinrichtung neuer LXC-Container, inkl. Root-Deaktivierung und SSH-Key-Transplantation |
-
-</div>
-
-<br>
-
-## 📊 Statistik
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OstseeBit&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=0F52BA&icon_color=00A9A5&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstseeBit&layout=compact&hide_border=true&bg_color=0D1117&title_color=0F52BA&text_color=c9d1d9" width="35%" />
-
-![Profilaufrufe](https://komarev.com/ghpvc/?username=OstseeBit&color=0F52BA&style=flat-square&label=Profilaufrufe)
-
-</div>
-
-<br>
-
-## ⚓ Wie ich arbeite
-
-> Stabilität, Verlässlichkeit und Wartbarkeit zählen mehr als kurzfristige Effekte oder Show.
-> Sicherheit vor Komplexität — lieber eine Lösung, die in einem Jahr noch nachvollziehbar ist,
-> als eine, die heute beeindruckt.
-
-Außerhalb der Technik interessieren mich Geschichte und Philosophie — beides schärft denselben Blick, den ich auch in der IT brauche: Strukturen verstehen, bevor man sie verändert.
-
-<br>
+OstseeBit verbindet damit meinen beruflichen Hintergrund mit meiner privaten technischen Arbeit: Systeme verstehen, praktische Lösungen entwickeln und Erfahrungen aus dem Betrieb in die Weiterentwicklung einfließen lassen.
 
 <div align="center">
 
