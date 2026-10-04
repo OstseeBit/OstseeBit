@@ -43,7 +43,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Henry — OstseeBit</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" style="fill:#ffffff;">IT-Infrastruktur | Endpoint Management | Homelab</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >OstseeBit</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="55%" class="desc" style="fill:#ffffff;">IT-Infrastruktur ~ Endpoint Management ~ Homelab</text>
       </svg>
     
