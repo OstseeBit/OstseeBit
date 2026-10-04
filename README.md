@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F52BA,100:00A9A5&height=210&section=header&text=Henry%20%E2%80%94%20OstseeBit&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT-Infrastruktur%20%7C%20Endpoint%20Management%20%7C%20Homelab&descAlignY=55&descSize=18)
+![Header](./assets/header.svg)
 
 </div>
 
@@ -51,7 +51,7 @@ OstseeBit verbindet damit meinen beruflichen Hintergrund mit meiner privaten tec
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00A9A5,100:0F52BA&height=120&section=footer)
+![Footer](./assets/footer.svg)
 
 **Rostock, Deutschland**
 
